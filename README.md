@@ -7,5 +7,6 @@ The folder "NN+LDA+LR" contains the position estimator scripts and support funct
 
 The folder "position_estimator" contains the different models tested. The name of the file needs to be changed in testFunction_for_students_MTb.m on line 31. 
 
+The folder "simple_neural_network" contains the function to optimise the parameter of a neural network. 
 
 
