@@ -9,4 +9,8 @@ The folder "position_estimator" contains the different models tested. The name o
 
 The folder "simple_neural_network" contains the function to optimise the parameter of a neural network. 
 
+"knn_linear_regression" folder (uses knn+PCA+linreg) uses the linearRegression() function to find the parameters (weights) in training, and reconstitutes the output in estimation with a vecorial multiplication
 
+"knn_non_linear_regression" folder uses knn+PCA+some nonlinear equation. This non-linear equation formula function can be changed in the nonLinModelFun() function
+
+Finally, the "population_encoding" folder contains a script which is used to evaluate population encoding. 
